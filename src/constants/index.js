@@ -116,16 +116,17 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Software Developer Intern",
+      company_name: "Presta Capital Limited",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "July 2022 - October 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Worked closely with development team members to identify and remove software bugs.",
+        "Running and testing new app and software",
+        "Updated software documentation and user guides to align with current features and comply with best practice standards.",
+        "Worked with software team members to enhance and sustain automated builds and integration tests",
+        "Provided technical support.",
       ],
     },
     {
