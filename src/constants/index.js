@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    aws2
   } from "../assets";
   
   export const navLinks = [
@@ -81,8 +82,8 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Amazon Web Services",
+      icon: aws2,
     },
     {
       name: "Tailwind CSS",
