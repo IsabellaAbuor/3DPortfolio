@@ -19,6 +19,7 @@ import {
     starbucks,
     tesla,
     shopify,
+    presta,
     carrent,
     jobit,
     tripguide,
@@ -126,7 +127,7 @@ import {
     {
       title: "Software Developer Intern",
       company_name: "Presta Capital Limited",
-      icon: meta,
+      icon: presta,
       iconBg: "#383E56",
       date: "July 2022 - October 2022",
       points: [
