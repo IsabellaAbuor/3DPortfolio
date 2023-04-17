@@ -24,6 +24,7 @@ import {
     tripguide,
     threejs,
     azure,
+    aws,
   } from "../assets";
   
   export const navLinks = [
@@ -85,11 +86,7 @@ import {
       name: "Tailwind CSS",
       icon: tailwind,
     },
-    {
-      name: "Azure",
-      icon: azure,
-    },
-    {
+     {
       name: "Node JS",
       icon: nodejs,
     },
@@ -106,8 +103,12 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "AWS",
+      icon: aws,
+    },
+    {
+      name: "Azure",
+      icon: azure,
     },
     {
       name: "docker",
