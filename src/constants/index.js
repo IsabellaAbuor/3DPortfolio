@@ -25,6 +25,8 @@ import {
     threejs,
     azure,
     aws,
+    linux,
+    python,
   } from "../assets";
   
   export const navLinks = [
@@ -63,6 +65,14 @@ import {
   
   const technologies = [
     {
+      name: "Python",
+      icon: python,
+    },
+    {
+      name: "Linux",
+      icon: linux,
+    },
+    {
       name: "HTML 5",
       icon: html,
     },
@@ -73,10 +83,6 @@ import {
     {
       name: "JavaScript",
       icon: javascript,
-    },
-    {
-      name: "TypeScript",
-      icon: typescript,
     },
     {
       name: "React JS",
