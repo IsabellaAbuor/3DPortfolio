@@ -32,8 +32,8 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import presta from "./company/presta5.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import project1 from "./project1.png";
+import project2 from "./project2.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -63,8 +63,8 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
+  project1,
+  project2,
   tripguide,
   azure,
   aws,

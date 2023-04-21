@@ -20,8 +20,8 @@ import {
     tesla,
     shopify,
     presta,
-    carrent,
-    jobit,
+    project1,
+    project2,
     tripguide,
     threejs,
     azure,
@@ -169,67 +169,50 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Application Logs Managemnet Software ",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "The application manages mobile ecommerce logs for all its microservices, It receives logs from the microservices and records them in a common storage. The logs are then displayed according to cruciality and alert is sent to support engineers when a FATAL error is logged.",
       tags: [
         {
-          name: "react",
-          color: "blue-text-gradient",
+          name: "Angular",
+          color: "pink-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Mongodb",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
-          color: "pink-text-gradient",
+          name: "Nodejs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Expressjs",
+          color: "green-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: project1,
+      source_code_link: "https://github.com/IsabellaAbuor/Error-Logging-Application",
     },
     {
-      name: "Job IT",
+      name: "RF Secure Coded Communication System",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Using the AES (Advanced Encryption Standard) method, this project was designed to maintain utmost secrecy when transmitting data over RF from one device to another. The project was successfully with the use of Arduino as a microcontroller and programmed using c++",
       tags: [
         {
-          name: "react",
+          name: "AES 256",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Arduino",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "C/C++",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: project2,
+      source_code_link: "https://github.com/IsabellaAbuor/RF-secure-Coded-Communication-System",
     },
   ];
   
