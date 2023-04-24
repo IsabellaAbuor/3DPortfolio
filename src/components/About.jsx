@@ -48,8 +48,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        An ambitious and innovative student currently studying towards
-        her computer science degree with an exemplary academic record 
+        An ambitious and and highly motivated computer science graduand 
+        with an exemplary academic record 
         and a passion to progress within the Cybersecurity field. 
         I'm  skilled in numerous cybersecurity techniques 
         including network security, encryption, and risk management and audit.
