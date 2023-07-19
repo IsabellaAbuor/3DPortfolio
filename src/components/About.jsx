@@ -49,10 +49,9 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         An ambitious and and highly motivated computer science graduand 
-        with an exemplary academic record 
-        and a passion to progress within the Cybersecurity field. 
-        I'm  skilled in numerous cybersecurity techniques 
-        including network security, encryption, and risk management and audit.
+        with  a passion to progress within the network and cloud security field. 
+        I'm  skilled in numerous network and cloud security techniques 
+        including computer networks, network security, encryption, and risk management and audit.
         Let's work together to bring your ideas to life!
       </motion.p>
 

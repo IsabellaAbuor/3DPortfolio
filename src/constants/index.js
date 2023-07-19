@@ -47,15 +47,15 @@ import {
   
   const services = [
     {
-      title: "Quality Assurance",
+      title: "Backend Development",
       icon: web,
     },
     {
-      title: "Python Developer",
+      title: "Network Analysis",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Quality Assurance",
       icon: backend,
     },
     {
