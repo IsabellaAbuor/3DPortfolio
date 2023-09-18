@@ -169,7 +169,32 @@ import {
   
   const projects = [
     {
-      name: "Application Logs Managemnet Software ",
+      name: "End to End Audio Encrypted Teleconsultation System",
+      description:
+        "MedTalk is an End to End audio encrypted teleconsultation system used by practioners to communicate virtually with their paitents. Using Webrtc and Aes algorithm for encrption",
+      tags: [
+        {
+          name: "WebRTC",
+          color: "green-text-gradient",
+        },
+        {
+          name: "AES 256",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Firebase",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "React.js",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/IsabellaAbuor/MedTalk",
+    },
+    {
+      name: "Application Logs Management Software ",
       description:
         "The application manages mobile ecommerce logs for all its microservices, It receives logs from the microservices and records them in a common storage. The logs are then displayed according to cruciality and alert is sent to support engineers when a FATAL error is logged.",
       tags: [
