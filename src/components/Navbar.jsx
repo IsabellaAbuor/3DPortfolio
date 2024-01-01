@@ -43,7 +43,7 @@ const Navbar = () => {
           <img src={logo2} alt='logo2' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Isabella Abuor &nbsp;
-            <span className='sm:block hidden'> | Systems Engineer - Cybersecurity </span>
+            <span className='sm:block hidden'> | Network & Cloud Security</span>
           </p>
         </Link>
 

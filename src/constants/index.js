@@ -22,6 +22,8 @@ import {
     presta,
     project1,
     project2,
+    project4,
+    project3,
     tripguide,
     threejs,
     azure,
@@ -190,7 +192,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: project4,
       source_code_link: "https://github.com/IsabellaAbuor/MedTalk",
     },
     {
