@@ -48,8 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        An ambitious and and highly motivated computer science graduand 
-        with  a passion to progress within the network and cloud security field. 
+        Ambitious and and highly motivated, with  a passion to progress within the cloud security field. 
         I'm  skilled in numerous network and cloud security techniques 
         including computer networks, network security, encryption, and risk management and audit.
         Let's work together to bring your ideas to life!
